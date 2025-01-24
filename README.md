@@ -24,7 +24,7 @@
     • DevOps: AWS EC2, Lambda, Amplify, DigitalOcean, Plesk, CI/CD pipeline, Git, Docker ...
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 <br>
 
 ![footer](https://github.com/aidenwong812/aidenwong812/blob/main/footer.jpg)
